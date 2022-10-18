@@ -32,7 +32,7 @@ Se creo un nuevo diseño, utilizando muchas de las propiedades y conceptos apren
 - caja flexible
 
  <h1>Aprendi</h1>
-Afiance conocientos que hemos venido trabajando como lo son importantes a la hora de crear nuestros diseños. 
+Afiance conocientos que hemos venido trabajando cque son importantes a la hora de crear nuestros diseños. 
 
 ``` .section2 h8{
     filter: opacity(0.5);
