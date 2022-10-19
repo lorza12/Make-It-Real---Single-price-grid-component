@@ -5,7 +5,7 @@
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-- [My process](#mi proceso)
+- [mi proceso](#mi-proceso)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
